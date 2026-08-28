@@ -1,6 +1,7 @@
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
-A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
+Civil Engineer & GIS professional exploring the intersection of structural engineering, geospatial technology, sustainability, and data-driven research. Building practical projects with GIS, engineering analysis, remote sensing, and computational tools—with a focus on solving real-world infrastructure and environmental challenges.
+
 
 Built with these awesome libraries:
 * [Bourbon][bourbon]
